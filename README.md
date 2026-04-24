@@ -25,13 +25,17 @@ Data on ~36 k orders placed on a food delivery platform from 1st January 2020 to
 * Used window functions to obtain advanced analytical insights.
   
 ## Key Business Insights
-- Total revenue earned by platform over 6 months is ₹6.06 lakhs, with monthly revenue around ₹1 lakh on an average , showing slight increases in February and April and a dip in March.
+- Total revenue earned by platform over 6 months is 6.06 lakhs ILS, with monthly revenue around 1 lakh ILS on an average , showing slight increases in February and April and a dip in March.
 - The restaurants having high order volumes are 13,30,18 and 20,making them key partners for the platform.
 - Popular restaurant categories include Fast Food, Asian and Indian while cheese and vegan meals were preferred by most customers.
 - Identified best-performing restaurants in each restaurant category which can help improve restaurant suggestions.
 - As restaurants located in Herzelia and Ramat Hasharon are popular among customers for ordering food, the platform should optimize delivery operations in these cities.
 - 20.5% customers contribute significantly to overall revenue earned by the platform, highlighting the importance of focusing on high-value users.
-- Identified customers who place the most number of orders on a monthly basis. Platform can boost their earnings by offering appealing discount and coupons to such customers.
+- Identified customers who place the most number of orders on a monthly basis. The platform can boost their earnings by offering appealing discount and coupons to such customers.
+- Peak ordering hours were observed between 11 AM – 1 PM and 7 PM – 9 PM, close to lunch and dinner time,respectively. The platform can increase revenue by promoting breakfast and appetizer options during off-peak hours. 
+- Males and Females place almost the same number of orders and prefer same restaurant categories and meal types. Some restaurants are popular across both genders
+while others are preferred by specific gender. Gender-based preferences can help the platform recommend restaurants more effectively and plan targeted campaigns on weekends and other special occasions.
+- Restaurants in Ramat Hasharon are more popular among women while those in Tel Aviv are more popular among men. Restaurants in Herzelia are preferred by both the genders. Upcoming restaurants can use these insights to decide on the ideal location of their restaurants. 
 - 
 ## Suggestions/Conclusion
 
