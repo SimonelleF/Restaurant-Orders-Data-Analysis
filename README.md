@@ -7,9 +7,9 @@ Through this analysis, UrbanEats is provided with insights to help it:
 1. Analyze the platform's performance
 2. Identify popular regions, meals, and restaurant categories among customers
 3. Detect loyal customers
-4. Understand ordering patterns (time, gender, behaviour)
-5. Evaluate customer's spending behaviour
-6. Understand partner restaurant's performance
+4. Understand ordering (time, gender, behaviour) and restaurant pricing patterns
+5. Evaluate whether customers are spending beyond target
+6. Understand partner restaurants' performance
 
 ## Tech Stack
 The analysis was performed in MySQL which was used to store data and execute queries.  
