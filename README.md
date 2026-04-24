@@ -30,6 +30,8 @@ Data on ~36 k orders placed on a food delivery platform from 1st January 2020 to
 - Popular restaurant categories include Fast Food, Asian and Indian while cheese and vegan meals were preferred by most customers.
 - Identified best-performing restaurants in each restaurant category which can help improve restaurant suggestions.
 - As restaurants located in Herzelia and Ramat Hasharon are popular among customers for ordering food, the platform should optimize delivery operations in these cities.
+- 20.5% customers contribute significantly to overall revenue earned by the platform, highlighting the importance of focusing on high-value users.
+- Identified customers who place the most number of orders on a monthly basis. Platform can boost their earnings by offering appealing discount and coupons to such customers.
 - 
 ## Suggestions/Conclusion
 
