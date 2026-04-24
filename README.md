@@ -8,7 +8,7 @@ Through this analysis, UrbanEats is provided with insights to help it:
 2. Identify popular regions, meals, and restaurant categories among customers
 3. Detect loyal customers
 4. Understand ordering patterns (time, gender, behaviour)
-5. Evaluate whether customers are spending beyond target
+5. Evaluate customer's spending behaviour
 6. Understand partner restaurant's performance
 
 ## Tech Stack
