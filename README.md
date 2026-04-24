@@ -9,7 +9,7 @@ Through this analysis, UrbanEats is provided with insights to help it:
 3. Detect loyal customers
 4. Understand ordering (time, gender, behaviour) and restaurant pricing patterns
 5. Evaluate whether customers are spending beyond target
-6. Understand partner restaurants' performance
+6. Understand restaurants' performance
 
 ## Tech Stack
 The analysis was performed in MySQL which was used to store data and execute queries.  
@@ -25,8 +25,11 @@ Data on ~36 k orders placed on a food delivery platform from 1st January 2020 to
 * Used window functions to obtain advanced analytical insights.
   
 ## Key Business Insights
-
-
-
+- Total revenue earned by platform over 6 months is ₹6.06 lakhs, with monthly revenue around ₹1 lakh on an average , showing slight increases in February and April and a dip in March.
+- The restaurants having high order volumes are 13,30,18 and 20,making them key partners for the platform.
+- Popular restaurant categories include Fast Food, Asian and Indian while cheese and vegan meals were preferred by most customers.
+- Identified best-performing restaurants in each restaurant category which can help improve restaurant suggestions.
+- As restaurants located in Herzelia and Ramat Hasharon are popular among customers for ordering food, the platform should optimize delivery operations in these cities.
+- 
 ## Suggestions/Conclusion
 
