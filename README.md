@@ -36,6 +36,12 @@ Data on ~36 k orders placed on a food delivery platform from 1st January 2020 to
 - Males and Females place almost the same number of orders and prefer same restaurant categories and meal types. Some restaurants are popular across both genders
 while others are preferred by specific gender. Gender-based preferences can help the platform recommend restaurants more effectively and plan targeted campaigns on weekends and other special occasions.
 - Restaurants in Ramat Hasharon are more popular among women while those in Tel Aviv are more popular among men. Restaurants in Herzelia are preferred by both the genders. Upcoming restaurants can use these insights to decide on the ideal location of their restaurants. 
-- 
-## Suggestions/Conclusion
+- Customer ordering behavior shows that, on an average, users order 2 meals per order, which can help the platform optimize delivery pricing strategies.
+- Restaurants 3 & 28 are the economically friendly restaurants whereas 11,10 & 4 are the high end restaurants. This can help align recommendations with the customer's spending pattern.
+- The average price per order is approximately 87 ILS. Vegan, cheese and beef meals are budget friendly options for customers and a chicken meal is the premium option. This gives the company an opportunity to suggest appropriate meals as per occasion and budget.
+- Interestingly, only one customer exceeded their monthly budget. This indicates an opportunity for the platform to encourage higher spending through targeted marketing strategies,such as discounts.
+- Restaurants 10,4,27,15 and 11 generate the highest payouts and hence, drive strong sales on the platform but also represent higher costs, so the platform should balance promoting these partners with maintaining healthy profit margins.
+
+## Conclusion
+This analysis has provided UrbanEats with data-driven insights that can help enhance customer satisfaction, optimize operations, and make strategic business decisions in relation to pricing, delivery, and recommendations, ultimately driving growth and profitability.
 
