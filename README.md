@@ -1,7 +1,7 @@
 # Restaurant-Orders-Data-Analysis
 
 ## 🍜 🍟 Food Ordering Platform Data Analysis in SQL
-A food delivery platform UrbanEats wants to understand its business performance. The company had data pertaining to orders, customers, restaurants, meals, and monthly summary of its customers. However, they lacked clear insights on revenue, regional & category-wise restaurant performance and their customer's loyalty & ordering patterns.
+A food delivery platform UrbanEats wants to understand its business performance. The company had data pertaining to orders, customers, restaurants, meals and monthly summary of its customers. However, they lacked clear insights on revenue, regional & category-wise restaurant performance and their customer's loyalty & ordering patterns.
 
 Through this analysis, UrbanEats is provided with insights to help it:
 1. Analyze the platform's performance
