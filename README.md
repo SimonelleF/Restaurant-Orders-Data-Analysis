@@ -26,7 +26,7 @@ Data on ~36 k orders placed on a food delivery platform from 1st January 2020 to
   
 ## Key Business Insights
 - The platform earned a total revenue of 6.06 lakhs ILS over 6 months, with a monthly revenue of  around 1 lakh ILS on an average , showing slight increases in February and April and a dip in March.
-- Restaurants 13,30,18 and 20 have the highest order volumes,making them key partners for the platform.
+- Restaurants 13,30,18 and 10 have the highest order volumes,making them key partners for the platform.
 - Popular restaurant categories include Fast Food, Asian and Indian while cheese and vegan meals are preferred by most customers.
 - Identified best-performing restaurants in each restaurant category which can help improve restaurant recommendations.
 - As restaurants located in Herzelia and Ramat Hasharon are popular among customers for ordering food, the platform should optimize delivery operations in these cities.
